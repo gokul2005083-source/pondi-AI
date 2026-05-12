@@ -1,13 +1,14 @@
 <div align="center">
 <a href="https://pondiai.netlify.app/" rel="noopener noreferrer">
 <img 
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f3f,50:0f2027,100:0f3f7f&height=240&section=header&text=🌦️%20SUBRAMANYA%20WEATHER%20APP%20🌡️&fontSize=44&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=📱%20Mobile%20users:%20Please%20enable%20Desktop%20Site%20for%20best%20view&descAlignY=75&descSize=20"
-  alt="pondi_ai_banner.html"
+  src="https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,40:1d4ed8,70:06b6d4,100:67e8f9&height=260&section=header&text=%20PONDI%20AI%20&fontSize=54&fontColor=00FFFF&animation=fadeIn&fontAlignY=36&desc=Smart%20Travel%20•%20AI%20Insights%20•%20Live%20Exploration&descAlignY=70&descSize=21"
+  alt="Pondi AI Banner"
   width="100%"
 />
 </a>
-</div> 
-# 🌊 PondiAI — Intelligent Travel Guide for Pondicherry
+</div>
+
+## 🌊 PondiAI — Intelligent Travel Guide for Pondicherry
 
 > *Where French colonial grandeur meets Tamil coastal soul — powered by AI.*
 
